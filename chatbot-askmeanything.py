@@ -1,6 +1,6 @@
 import openai
 # Set the API key for OpenAI
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def chatbot():
