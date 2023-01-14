@@ -1,0 +1,6 @@
+bug_id,frequency,severity,component,fix_time_in_h
+1,4,1,infra,4,4
+2,2,2,database,4,8
+3,40,3,integration,4,9
+4,30,4,parsing,4,5
+5,20,4,pipeline,4,4
